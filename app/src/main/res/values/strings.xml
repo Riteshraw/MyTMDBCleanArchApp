@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MyTMDBCleanArchApp</string>
+    <string name="movie">movies</string>
+    <string name="tvShow">tv shows</string>
+    <string name="artist">artists</string>
+</resources>
